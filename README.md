@@ -27,7 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pradeep_leetcode_415" height="30" width="40" />
   </a>
   <!-- Coding Ninjas -->
-  <a href="https://www.codingninjas.com/codestudio/profile/Pradeepkr415" target="blank">
+  <a href="https://www.naukri.com/code360/profile/8714459c-2310-48fc-87ae-5b39ea9f3ca4" target="blank">
     <img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" height="30" width="40" />
   </a>
 
