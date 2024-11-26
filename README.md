@@ -26,25 +26,26 @@
   <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pradeep_leetcode_415" height="30" width="40" />
   </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Pradeepkj154" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Codeforces_logo.svg/800px-Codeforces_logo.svg.png" alt="Codeforces" height="30" width="40" />
+  <!-- Coding Ninjas -->
+  <a href="https://www.codingninjas.com/codestudio/profile/Pradeepkr415" target="blank">
+    <img align="center" src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" height="30" width="40" />
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/pradeepkr415/?ref=header_profile" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/GeeksforGeeks_Logo.svg/1024px-GeeksforGeeks_Logo.svg.png" alt="GeeksforGeeks" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=80&id=AbQBhN9v62Ob&format=png" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 
-  <!-- Coding Ninjas -->
-  <a href="https://www.codingninjas.com/codestudio/profile/Pradeepkr415" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Coding_Ninjas_logo.png" alt="Coding Ninjas" height="30" width="40" />
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Pradeepkj154" target="blank">
+    <img align="center" src="https://codeforces.com/codeforces.org/s/12078/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="30" width="40" />
   </a>
+
+
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/pradeepkr415" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/CodeChef_logo.png/800px-CodeChef_logo.png" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" alt="CodeChef" height="30" width="40" />
   </a>
 
 </p>
