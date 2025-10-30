@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/programming-coding-banner-flat-design-260nw-505868842.jpg">
 
 
-- 💬 Ask me about **Data Structures and Algorithms**
+
 
 - 📫 How to reach me **krp18539@gmail.com**
 
