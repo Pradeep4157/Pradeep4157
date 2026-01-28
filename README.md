@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me **krp18539@gmail.com**
+- 📫 How to reach me **krp18539@gmail.com** **https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
