@@ -17,11 +17,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pradeep Kumar Jha" height="30" width="40" />
   </a>
 
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/pradeepkr154" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Pradeep4157" height="30" width="40" />
-  </a>
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pradeep_leetcode_415" height="30" width="40" />
