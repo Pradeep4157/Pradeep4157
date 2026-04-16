@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">🚀 Exploring efficient algorithms and solving problems with optimized data structures.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/programming-coding-banner-flat-design-260nw-505868842.jpg">
-
+<p align="center">
+  <img src="..." width="400"/>
+</p>
 
 
 
