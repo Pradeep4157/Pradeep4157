@@ -9,6 +9,7 @@
 
 
 - 📫 How to reach me **krp18539@gmail.com** **https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/" target="_blank" style="display:inline-block;">
