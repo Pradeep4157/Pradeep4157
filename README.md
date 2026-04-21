@@ -10,18 +10,17 @@
 
 - 📫 How to reach me **krp18539@gmail.com** **https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/**
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/" target="blank">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="blank">
+  <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/Pradeepkj154" target="blank">
+  <a href="https://codeforces.com/profile/Pradeepkj154" target="_blank" style="display:inline-block;">
     <img src="https://codeforces.com/codeforces.org/s/12078/images/codeforces-sponsored-by-ton.png" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/pradeepkr415" target="blank">
+  <a href="https://www.codechef.com/users/pradeepkr415" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" height="30" width="40" />
   </a>
 </p>
