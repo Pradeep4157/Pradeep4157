@@ -12,27 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pradeep Kumar Jha" height="30" width="40" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pradeep_leetcode_415" height="30" width="40" />
-  </a>
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Pradeepkj154" target="blank">
-    <img align="center" src="https://codeforces.com/codeforces.org/s/12078/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="30" width="40" />
-  </a>
-
-
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/pradeepkr415" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" alt="CodeChef" height="30" width="40" />
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-jha-91b529268/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Pradeep_leetcode_415/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Pradeepkj154" target="blank"><img src="https://codeforces.com/codeforces.org/s/12078/images/codeforces-sponsored-by-ton.png" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/pradeepkr415" target="blank"><img src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" height="30" width="40" /></a>
+</p>
 
 </p>
 
